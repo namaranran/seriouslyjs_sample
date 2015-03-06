@@ -1,0 +1,16 @@
+{
+  "name": "Seriously Demo",
+  "description": "Serioushly App",
+  "type": "web",
+  "launch_path": "/index.html",
+  "orientation": "portrait-primary",
+  "locales": {
+    "en-US": {
+      "name": "Seriously Demo",
+      "description": "Web app Seriously Demo"
+    }
+  },
+  "icons": {
+    "128": "/images/colorbars.png"
+  }
+}
